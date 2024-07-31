@@ -1,0 +1,42 @@
+* {
+
+text-align: center;
+background: #dcf7f7;
+margin: 5px;
+padding: 0;
+
+}
+h3,h1 {
+
+border-color: plum;
+box-sizing: border-box;
+
+border-radius: 30px 80px;
+border-size: 1px;
+margin: 10px;
+}
+h1 {
+border-style: double;
+background: beige;
+}
+
+.text_correct {
+font-size: 20px;
+
+border-size: 2px;
+}
+
+.text_corrected {
+text-allign:auto;
+font-size: 18px;
+border: pink;
+border-style: initial;
+border-size: 3px;
+list-style-type: disc;
+
+}
+
+.text_beg {
+margin: 20px;
+padding: 5px;
+}
