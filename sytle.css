@@ -1,0 +1,51 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+.headline{
+    text-align:center;
+    font-size: 35px;
+    font-family:cursive,Verdana, Geneva, Tahoma, sans-serif;
+    color:rgb(100, 198, 236);
+}
+.subheader
+{
+    text-align:center;
+    font-style: italic;
+    text-align: center;
+    font-size: 25;
+}
+#panda
+{
+     width: 50%;
+}
+.intro{
+background-color:coral;
+padding:30px;
+}
+.main-text
+{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:blue;
+    margin:20px;
+}
+.text-more 
+{
+background-color:burlywood;
+font-weight: 800;
+color: orange;
+}
+.idea 
+{
+    
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+    color: pink;
+}
+.footer-element
+{
+ text-align:center;
+ font-style:italic;
+ font-size: 20px;
+}
