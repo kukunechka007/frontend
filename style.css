@@ -1,0 +1,17 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+body {
+    background-image: url(frogs.jpeg);
+    background-position: 8cap;
+    position: absolute;
+    background-size:cover;
+    margin: 20px;
+    padding: 5px;
+}
+
+h1,h4 {
+    text-align: left;
+}
