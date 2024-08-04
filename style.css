@@ -1,0 +1,53 @@
+main {
+  height: 200vh;
+  font-kerning: normal;
+  background:fixed;
+  background-size:cover;
+  background-position: 0%;
+  background-image: url(../task_fe-css-position-museum-header/backgroundimg.jpeg);
+  box-sizing: inherit;
+}
+
+/* твой код */
+.navbar {
+
+  margin-top: 70px;
+  background-color: rgb(102,102,102);
+  width: 100%;
+  font-style: italic;
+  position: fixed;
+  font: italic small-caps bold 14px/2 cursive;
+
+}
+
+p{
+   margin-top: 150px;
+  background-color:rgb(36, 93, 97);
+  height: 50%;
+  width: 30%;
+    position:absolute;
+    border-bottom: 100px;
+    padding: 20px;
+    font-size: 15px;
+    font: bolder;
+    font-family:'Times New Roman', Times, serif;
+    border: 2px;
+    border-style: dotted;
+    text-align:justify;    
+
+}
+div.banner{
+  width:100%;
+  border-color: aqua;
+  background: rgb(223, 220, 196);
+  position: fixed;
+}
+.background-attachment {scrollbar-width: 300px;}
+
+
+@font-face {
+  font-family: "NarrowNews"; 
+  src: url("./fonts/ClanOT-NarrowNews.ttf") format("truetype"); 
+  font-style: normal; 
+  font-weight: normal; 
+  } 
