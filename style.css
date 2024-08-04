@@ -4,7 +4,7 @@ main {
   background:fixed;
   background-size:cover;
   background-position: 0%;
-  background-image: url(../task_fe-css-position-museum-header/backgroundimg.jpeg);
+  background-image: url(backgroundimg.jpeg);
   box-sizing: inherit;
 }
 
